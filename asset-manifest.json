@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ashsingh138/kshitijTask4weatherapp/static/css/main.9c3be982.css",
-    "main.js": "/ashsingh138/kshitijTask4weatherapp/static/js/main.1c18e547.js",
-    "static/js/453.a735b615.chunk.js": "/ashsingh138/kshitijTask4weatherapp/static/js/453.a735b615.chunk.js",
-    "index.html": "/ashsingh138/kshitijTask4weatherapp/index.html",
-    "main.9c3be982.css.map": "/ashsingh138/kshitijTask4weatherapp/static/css/main.9c3be982.css.map",
-    "main.1c18e547.js.map": "/ashsingh138/kshitijTask4weatherapp/static/js/main.1c18e547.js.map",
-    "453.a735b615.chunk.js.map": "/ashsingh138/kshitijTask4weatherapp/static/js/453.a735b615.chunk.js.map"
+    "main.css": "/kshitijTask4weatherapp/static/css/main.9c3be982.css",
+    "main.js": "/kshitijTask4weatherapp/static/js/main.fc71c436.js",
+    "static/js/453.a735b615.chunk.js": "/kshitijTask4weatherapp/static/js/453.a735b615.chunk.js",
+    "index.html": "/kshitijTask4weatherapp/index.html",
+    "main.9c3be982.css.map": "/kshitijTask4weatherapp/static/css/main.9c3be982.css.map",
+    "main.fc71c436.js.map": "/kshitijTask4weatherapp/static/js/main.fc71c436.js.map",
+    "453.a735b615.chunk.js.map": "/kshitijTask4weatherapp/static/js/453.a735b615.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c3be982.css",
-    "static/js/main.1c18e547.js"
+    "static/js/main.fc71c436.js"
   ]
 }
